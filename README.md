@@ -12,5 +12,5 @@ This project was modified from [Svelte](https://svelte.dev) apps. It lives at ht
 cd svelte-app
 npm i
 ```
-*1-when runing in development, disable browser cache 2-delete global.css file if you faced issues,3-when compiler taking much time, check rollup.confing.js*
+*1-when runing in development,\n disable browser cache 2-delete global.css file if you faced issues,3-when compiler taking much time, check rollup.confing.js*
 ---
